@@ -3,11 +3,11 @@ package org.example;
 public class Examen {
     public static void main(String[] args) {
 
-//        Ejercicio1 ejercicio1 = new Ejercicio1();
-//        ejercicio1.ejecutar();
+//        Ejercicios ejercicio1 = new Ejercicios();
+//        ejercicio1.ej1();
 
-        Ejercicio2 ejercicio2 = new Ejercicio2();
-        ejercicio2.ejecutar();
+        Ejercicios ejercicio2 = new Ejercicios();
+        ejercicio2.ej2();
 
 
     }
